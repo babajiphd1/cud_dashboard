@@ -2,3 +2,5 @@ streamlit
 pandas
 pandas_datareader
 openpyxl
+requests
+setuptools
